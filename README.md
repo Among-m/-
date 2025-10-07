@@ -4,9 +4,9 @@
 
 ## ✨ 图片预览
 ![数据概览](images/数据概览.png)
-![数据概览](images/项目管理.png)
-![数据概览](images/卡密管理.png)
-![数据概览](images/用户管理.png)
+![项目管理](images/项目管理.png)
+![卡密管理](images/卡密管理.png)
+![用户管理](images/用户管理.png)
 
 ## ✨ 核心功能
 
